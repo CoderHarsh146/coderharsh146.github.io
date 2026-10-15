@@ -1,0 +1,537 @@
+[
+  {
+    "path": "assets/audio/adhaiya/after-enhanced-narration-full.flac",
+    "bytes": 30001441,
+    "sha256": "913cc4605df7610a4dbc3881651af378481ad44c4d78dd4f19a363c6b7bfa9ed"
+  },
+  {
+    "path": "assets/audio/adhaiya/before-parts/elevenlabs-part-01.mp3",
+    "bytes": 3020392,
+    "sha256": "07ef73a9b01c8ea63590436c065536b4e6a4ccc049bd79825309f1a3c091788d"
+  },
+  {
+    "path": "assets/audio/adhaiya/before-parts/elevenlabs-part-02.mp3",
+    "bytes": 2454475,
+    "sha256": "eb245ebf509a1d6f6b4076fe974b1237412136e5d5fd63b043744ef40d2d5719"
+  },
+  {
+    "path": "assets/audio/adhaiya/before-parts/elevenlabs-part-03.mp3",
+    "bytes": 2015618,
+    "sha256": "1bca1cefdcdaffb58ccf161292a74cb4f6801a78dfaf954b121993c9fbe79cba"
+  },
+  {
+    "path": "assets/audio/adhaiya/before-parts/elevenlabs-part-04.mp3",
+    "bytes": 1457643,
+    "sha256": "bfd5554809a0ff6e4287b8eefc9336e95155a454371005f46d603f66fe5d85c5"
+  },
+  {
+    "path": "assets/audio/adhaiya/previews/after-opening-30s.mp3",
+    "bytes": 240787,
+    "sha256": "4e1b8c514368dbbecf4b922cc42a728c36e6bc34147f70b174fbe1505059651a"
+  },
+  {
+    "path": "assets/audio/adhaiya/previews/before-opening-30s.mp3",
+    "bytes": 240787,
+    "sha256": "49d83af2599bc411f92998585bff1647c3c6bbf9489a49a8beebe5ca1f037aaa"
+  },
+  {
+    "path": "assets/audio/sudama/after-enhanced-narration-full.flac",
+    "bytes": 51667915,
+    "sha256": "1fc5ee2bb87307ead6d018ad204dac1b76df431d991ce50c3bc8eca2cea7455c"
+  },
+  {
+    "path": "assets/audio/sudama/before-parts/elevenlabs-part-01.mp3",
+    "bytes": 4693193,
+    "sha256": "1dc495a6572abadb7178c63dc932494ccde22e92893a9ac2702584765dbefec7"
+  },
+  {
+    "path": "assets/audio/sudama/before-parts/elevenlabs-part-02.mp3",
+    "bytes": 4012337,
+    "sha256": "07cb5ba2e7b0a612e2ddf2fed1e8b6bb6eab6f47ef23bc784cf7e78dca65ce92"
+  },
+  {
+    "path": "assets/audio/sudama/before-parts/elevenlabs-part-03.mp3",
+    "bytes": 3023864,
+    "sha256": "9bdff5d2ea2957e1995573f7ad27f099f93f59637f57bd8ace81cf05308f591f"
+  },
+  {
+    "path": "assets/audio/sudama/before-parts/elevenlabs-part-04.mp3",
+    "bytes": 4410234,
+    "sha256": "b056539db7ec49cecb2ae8905ee4dedee5b93626aac390a1fca501f3f3167ea7"
+  },
+  {
+    "path": "assets/audio/sudama/before-parts/elevenlabs-part-05.mp3",
+    "bytes": 2671942,
+    "sha256": "00f1a08853f9b83f9cb06b7a009d34e56f7b13e59a7163a1b032e198e33d4dd4"
+  },
+  {
+    "path": "assets/audio/sudama/previews/after-opening-30s.mp3",
+    "bytes": 240787,
+    "sha256": "b85ad4c356fdb699a7665a5f097b798d1973215050de5e10a7fa5d7f73021cac"
+  },
+  {
+    "path": "assets/audio/sudama/previews/before-opening-30s.mp3",
+    "bytes": 240787,
+    "sha256": "089315f27007fcd8528a50d1402f6f35ce60b9b29e79b88e861dfc429f246b59"
+  },
+  {
+    "path": "assets/characters/additional-studies/bhagwan-shiv.webp",
+    "bytes": 279360,
+    "sha256": "350133dcdbbfef52033e67651af4cb6e9ebc699998bd32e6cc9377acda7a712e"
+  },
+  {
+    "path": "assets/characters/additional-studies/guru-ji.webp",
+    "bytes": 212526,
+    "sha256": "9cbee6ad9cff8f5760fa152e4c5dcbd553404e8528b3eea56602713fa6bd6492"
+  },
+  {
+    "path": "assets/characters/additional-studies/hanuman.webp",
+    "bytes": 344394,
+    "sha256": "cbeb9ad48afe9b46405f0e23e502378e0d3797fd4015b64b9bc58328fea38c2e"
+  },
+  {
+    "path": "assets/characters/additional-studies/lakshman.webp",
+    "bytes": 318408,
+    "sha256": "44d7702619b2120ee34f0e4c4130c5118f6355d81f13bfb37e286df9367dcb2c"
+  },
+  {
+    "path": "assets/characters/additional-studies/maharaj-nandi.webp",
+    "bytes": 242868,
+    "sha256": "d0186c60b9e1e4ba83569e942c65a2fef7daa86dec7ac3363cf4d7249f69860a"
+  },
+  {
+    "path": "assets/characters/additional-studies/mata-parvati.webp",
+    "bytes": 341922,
+    "sha256": "f800b38f7acd17b15efbcf1da944387f0d780a6ba153361edc0dd6aacadf1362"
+  },
+  {
+    "path": "assets/characters/additional-studies/mata-sita.webp",
+    "bytes": 295054,
+    "sha256": "9452ad98e2f4a428858f22a5e79054f4bbacb57029aa2760bda1e3a307329517"
+  },
+  {
+    "path": "assets/characters/additional-studies/shri-ram.webp",
+    "bytes": 290380,
+    "sha256": "f4f10327a369a5d517b7a28788babecf79f412a7654933c2380c4bf342d26ecf"
+  },
+  {
+    "path": "assets/characters/adhaiya/01-adhaiya-character.webp",
+    "bytes": 167674,
+    "sha256": "4b0e6698b58da529b070114588a505b430dbeca14cbcc34fe88ee9cf26c19fcf"
+  },
+  {
+    "path": "assets/characters/sudama/01-baal-krishna.webp",
+    "bytes": 133518,
+    "sha256": "1bfa0eef504bb4efb1ad68f952b22ad14dd4bf5009216b2e40b4071216d6b285"
+  },
+  {
+    "path": "assets/characters/sudama/02-arjun-gurukul-student.webp",
+    "bytes": 108440,
+    "sha256": "aabbd165e1586f7a089c0238dbdaca802532c307b71f2beefeb86bc57030b740"
+  },
+  {
+    "path": "assets/characters/sudama/03-shri-krishna-dwarikadhish.webp",
+    "bytes": 140170,
+    "sha256": "30a802863615f824ca3eadb2e5ef78746d91a4f40f1351ef4f87b876eadccfbe"
+  },
+  {
+    "path": "assets/characters/sudama/04-adult-sudama-visual-reference.webp",
+    "bytes": 112174,
+    "sha256": "0f9813e683e5e1bfc1a05b4d16c78a3ccb7b3d5c4c33975af955f65d8ae105db"
+  },
+  {
+    "path": "assets/characters/sudama/05-adult-sudama-turnaround.webp",
+    "bytes": 83204,
+    "sha256": "8eb2328548df6d1606c5f79b1c4e3d9e6535a5a59c6cf1751bcb7ba5f15700c7"
+  },
+  {
+    "path": "assets/characters/sudama/06-palace-guard.webp",
+    "bytes": 146114,
+    "sha256": "6830a16227af793f65cf7af376195a5c820ed67fb87a9fcd96a57819a3392caa"
+  },
+  {
+    "path": "assets/characters/sudama/07-queen-priyamvada.webp",
+    "bytes": 136606,
+    "sha256": "a9a4b5bdf251d7d7fab9fa61564c5d2c561a09f8cf0d83975acbd182bdac81cc"
+  },
+  {
+    "path": "assets/characters/sudama/08-elderly-woman-grief.webp",
+    "bytes": 118724,
+    "sha256": "d8806676b5b260a7e84621fbf79570d36669418319dbbaa69bf4c03202f893c0"
+  },
+  {
+    "path": "assets/characters/sudama/09-elderly-woman-outdoor.webp",
+    "bytes": 152404,
+    "sha256": "2c9c9e159e32283242d6e53267cc9b689251df65b2ff99ac8575808dddc3b5fe"
+  },
+  {
+    "path": "assets/characters/sudama/10-woman-blue-saree.webp",
+    "bytes": 84582,
+    "sha256": "5e2170ee1fcbb9422ee2bd919c23aa2f49ce51b7a76aa3916c76a5cadf0d34cb"
+  },
+  {
+    "path": "assets/characters/sudama/11-rishi-sandeepani.webp",
+    "bytes": 235948,
+    "sha256": "57c1d11ae4ea86f42361f80c91cb196a9865d33cb9df6ffb54561acbc6b02422"
+  },
+  {
+    "path": "assets/documents/harsh-yadav-resume.pdf",
+    "bytes": 566790,
+    "sha256": "073ac5f536dc4e2971e1536bce197a87a7dcc56a1fbdd0c2d217c31f66002786"
+  },
+  {
+    "path": "assets/documents/storyboard-to-video.html",
+    "bytes": 33421,
+    "sha256": "d70797479be345f0b6702c1716d617861bbdfe664a9d89926cd9440c38afa63a"
+  },
+  {
+    "path": "assets/documents/text-to-video.html",
+    "bytes": 33858,
+    "sha256": "90ef6af3961523bc33053c5006db79f6adeca26f16887a00cfcadccb9e70cbc3"
+  },
+  {
+    "path": "assets/images/harsh-yadav-portrait.webp",
+    "bytes": 92538,
+    "sha256": "b6d79de9e8398141ef79f421da0b66acf0c2f30be596c3094c10f1568fbe0982"
+  },
+  {
+    "path": "assets/images/whatsapp-creator-community-qr.png",
+    "bytes": 66666,
+    "sha256": "d23eb4e9f4a946d8b6f74468c2c11abb28c8f0b99fa109c09a8593dcb0a30b5b"
+  },
+  {
+    "path": "assets/locations/01-riverbank.webp",
+    "bytes": 361342,
+    "sha256": "f1144377fb52e5ffbeb14df55b676b305410e2a499decff3acd73f6b2218480b"
+  },
+  {
+    "path": "assets/locations/02-village-ashram.webp",
+    "bytes": 476530,
+    "sha256": "fdadc6a6ec0cffeb00f1d20d2984b426b0e5c773712a25db74803de5e48cd2c4"
+  },
+  {
+    "path": "assets/locations/03-forest-clearing.webp",
+    "bytes": 473356,
+    "sha256": "50e264c356127734ef4ab6a7b1794aede038c41a3c62434c7634e6e332ced095"
+  },
+  {
+    "path": "assets/posters/adhaiya-clip-01.webp",
+    "bytes": 52230,
+    "sha256": "48ab56b7e59ec562fc434798460ae7c9866b6c5ca777edb9de7703598f71283f"
+  },
+  {
+    "path": "assets/posters/adhaiya-clip-02.webp",
+    "bytes": 42834,
+    "sha256": "5c01b5a976e6290644a652984bdffc0d1f1221646144e7a28ae0cd2e44b4716d"
+  },
+  {
+    "path": "assets/posters/adhaiya-clip-03.webp",
+    "bytes": 32822,
+    "sha256": "aee78bed68ddd74f3960e876c06fee8b0a84a4e9c4bf052a01a036af54226469"
+  },
+  {
+    "path": "assets/posters/adhaiya-clip-04.webp",
+    "bytes": 91816,
+    "sha256": "0437d94659b1938642851aef290d8392459282b1ff5a70f45ed5295fd90ae75d"
+  },
+  {
+    "path": "assets/posters/adhaiya-clip-05.webp",
+    "bytes": 78628,
+    "sha256": "c6b86d71f46858259ebf59e378a18dca911219a6f2434edaa924e84dd4f4f217"
+  },
+  {
+    "path": "assets/posters/adhaiya-clip-06.webp",
+    "bytes": 63550,
+    "sha256": "97bf6160d561e5414e03651d2ef719d1cc6a4662bf559d6e6f5c73e81d99d83f"
+  },
+  {
+    "path": "assets/posters/sudama-clip-04.webp",
+    "bytes": 9440,
+    "sha256": "3159562dacfcb92f6046ef212dd9be2a88c7cbd80eaacce4a976503c4a6ba3ef"
+  },
+  {
+    "path": "assets/posters/sudama-clip-09.webp",
+    "bytes": 20924,
+    "sha256": "1f4b094c6431dbbeee452fe30eca31a9acdae026c276b11dfe41418e9e129dc0"
+  },
+  {
+    "path": "assets/posters/sudama-clip-14.webp",
+    "bytes": 45662,
+    "sha256": "97e04cc36c0bfed9674c8d97a090a1ff29e7f26ea618b7c87014359b43c18f95"
+  },
+  {
+    "path": "assets/posters/sudama-clip-23.webp",
+    "bytes": 25540,
+    "sha256": "202b1246087b5946ab7a8a1a109e5838c706176a9febf9bd05899f606c60f009"
+  },
+  {
+    "path": "assets/posters/sudama-clip-30.webp",
+    "bytes": 8190,
+    "sha256": "75bf231a73ed3058cf8ea1b4d4407da140018a8a44e14a8616c7e123cf69e64e"
+  },
+  {
+    "path": "assets/posters/sudama-clip-34.webp",
+    "bytes": 17074,
+    "sha256": "1af3bd41f83ec4890434caa9d75c2db2026942985c89b4e4d8b7f1fc6b30b312"
+  },
+  {
+    "path": "assets/posters/sudama-clip-38.webp",
+    "bytes": 10788,
+    "sha256": "8fd29885dd414f465c0da41f72fc95825930783b7ce69bedf9d004f024c2f12b"
+  },
+  {
+    "path": "assets/posters/sudama-clip-49.webp",
+    "bytes": 19038,
+    "sha256": "7c23f20a732fdebc6966972d3f85e2309f1a6dddce4708f51b554a839bf6a24e"
+  },
+  {
+    "path": "assets/storyboards/01-sunayna-home-decision.webp",
+    "bytes": 96358,
+    "sha256": "2d21efbf003d8c2928af3e5e25d887ac5d4b8330b01f7efdbe6bde4ef7df5990"
+  },
+  {
+    "path": "assets/storyboards/02-night-forest-chana.webp",
+    "bytes": 153328,
+    "sha256": "f837cce5180495eb8624bb4329838cc5c34d8e6e9fd6cc0cc13736ed07010e74"
+  },
+  {
+    "path": "assets/storyboards/03-wood-collection-storm.webp",
+    "bytes": 268484,
+    "sha256": "2c97f0f11901381218cf5c08fad5c08b21bb7aaf8355cf2c453c9ea35d38e194"
+  },
+  {
+    "path": "assets/storyboards/04-rain-and-chana.webp",
+    "bytes": 107672,
+    "sha256": "d0c3e246681ca413689a172b199b1b63b5d6e1b38327d47630664da3184e6aef"
+  },
+  {
+    "path": "assets/storyboards/05-ashram-village-scenes.webp",
+    "bytes": 144758,
+    "sha256": "31f63e8e7c39d22748b78688a6516a231ef01d377524c61f9109c7b6348a0420"
+  },
+  {
+    "path": "assets/storyboards/06-neighbour-chivda.webp",
+    "bytes": 86836,
+    "sha256": "b9dac1f2a6d42ab1e4e0ae7a9d281229728d9fae5d0353a905e589b2b71ef8f2"
+  },
+  {
+    "path": "assets/storyboards/07-household-offering.webp",
+    "bytes": 227490,
+    "sha256": "a311afe749793344722166d15d548cc51a1e0b824005ee95aa671936b41c6ed4"
+  },
+  {
+    "path": "assets/storyboards/08-forest-friendship.webp",
+    "bytes": 230306,
+    "sha256": "a1648270adcc18df12e811542128f1b6b741ecbf5eeaa11f33c43dcbcc8f4f6d"
+  },
+  {
+    "path": "assets/storyboards/09-rain-continuity.webp",
+    "bytes": 125634,
+    "sha256": "bc92c1e8934ca6b310df6e34ec4f6dd4ddb47b1da172d52ad572ae72598b0eac"
+  },
+  {
+    "path": "assets/storyboards/10-sunayna-night-to-dawn-prompt-output.webp",
+    "bytes": 129730,
+    "sha256": "25cfd32e7c37951cf09d3e071481e79942572165b00a0690cfd5cfb9056277ec"
+  },
+  {
+    "path": "assets/storyboards/11-neighbour-reference.webp",
+    "bytes": 89652,
+    "sha256": "823d660ac2f34f2052eaa7e216df44cd789e15249ce396915a791815b6f2db65"
+  },
+  {
+    "path": "assets/thumbnails/adhaiya-01-main.webp",
+    "bytes": 243600,
+    "sha256": "05205fa162b092e8818659f8e851db4b4adab9c2e85f090d85bdc8ff59a90d45"
+  },
+  {
+    "path": "assets/thumbnails/adhaiya-02-forest.webp",
+    "bytes": 306446,
+    "sha256": "c50fd8a05ce250ef30072f86804caeddf9e4f664c20239074769dfcca2114829"
+  },
+  {
+    "path": "assets/thumbnails/adhaiya-03-golden.webp",
+    "bytes": 281330,
+    "sha256": "7fe8a0f15b076c3b13a8db61e9843bf69551045654fc6c520e5dd7c6b36984ca"
+  },
+  {
+    "path": "assets/thumbnails/nachiketa-channel-thumbnail.webp",
+    "bytes": 26528,
+    "sha256": "a32d38aaab1f9e338aaa9f886d1fef46293321fd07e70c2f66dd6a73cd75bd53"
+  },
+  {
+    "path": "assets/thumbnails/nachiketa-original-thumbnail.webp",
+    "bytes": 588306,
+    "sha256": "713533cffdf8a29ae3911f4d5564079829c34ea9e08e86b8f50a7cd671eb0171"
+  },
+  {
+    "path": "assets/thumbnails/sudama-01-embrace.webp",
+    "bytes": 276360,
+    "sha256": "dcc4a95930f4c42ff9fe5da5023cfdbcea56add4a8977adf819e10bc57170cb7"
+  },
+  {
+    "path": "assets/thumbnails/sudama-02-grand-reunion.webp",
+    "bytes": 272086,
+    "sha256": "995299632b8fc3c3f712c2ee3750635657a49396bbb2fc3a7481a5b2b6317ee9"
+  },
+  {
+    "path": "assets/thumbnails/sudama-03-close-embrace.webp",
+    "bytes": 292546,
+    "sha256": "ededb3c47596604eb0467584a09a12cf93772d40060ebb622bb42b5b8703af97"
+  },
+  {
+    "path": "assets/videos/adhaiya/adhaiya-clip-01.mp4",
+    "bytes": 2379609,
+    "sha256": "f9143cbf337af3806a3a9ef575e46eac4eae2088e07a7ff753e357fc8eda2baf"
+  },
+  {
+    "path": "assets/videos/adhaiya/adhaiya-clip-02.mp4",
+    "bytes": 1504179,
+    "sha256": "94239d3a731c50ea64acb808418a81700e58ae9b6aaede34e3586731b0719483"
+  },
+  {
+    "path": "assets/videos/adhaiya/adhaiya-clip-03.mp4",
+    "bytes": 1167371,
+    "sha256": "289d8140235ce84679ee1f5b43d2ddefb0e5fa146f269dc1a0d3b08d97da835e"
+  },
+  {
+    "path": "assets/videos/adhaiya/adhaiya-clip-04.mp4",
+    "bytes": 2367468,
+    "sha256": "7ecf6a4453d60d062cb67ba3d64c758f91dd09f1680e03b10feb49c72811a79d"
+  },
+  {
+    "path": "assets/videos/adhaiya/adhaiya-clip-05.mp4",
+    "bytes": 2366297,
+    "sha256": "08553a0771e5bef20bed775c33d6b3c10eaf74963dbd454c7124cd058f4c0b9e"
+  },
+  {
+    "path": "assets/videos/adhaiya/adhaiya-clip-06.mp4",
+    "bytes": 2078248,
+    "sha256": "6b7cc0857739fc74cc537a3bed49cb28da5c96d9459dee6c4f911a5431a39215"
+  },
+  {
+    "path": "assets/videos/homepage/krishna-balarama-divine-loop.mp4",
+    "bytes": 29391780,
+    "sha256": "e442dff1ae4bad2e47aaee9b0cda70a18cc0970a86b1125632ceeedbdd86cbd3"
+  },
+  {
+    "path": "assets/videos/homepage/krishna-balarama-divine-loop-mobile.mp4",
+    "bytes": 10403326,
+    "sha256": "105f5b29d937b45ae0fdaa2a6334719c34f46115aaf78b0ff15bd9a4e3d67795"
+  },
+  {
+    "path": "assets/videos/sudama/sudama-clip-04.mp4",
+    "bytes": 1966943,
+    "sha256": "5b59729e99c1acfbcf9784533408d80d4f97c14ff7a74dc1a6adb0f377c08d24"
+  },
+  {
+    "path": "assets/videos/sudama/sudama-clip-09.mp4",
+    "bytes": 1778331,
+    "sha256": "2d8cd4fb1a0e334adf52dd85d9f36285a7dfca3b9648d0315b6ec9dadf95ae52"
+  },
+  {
+    "path": "assets/videos/sudama/sudama-clip-14.mp4",
+    "bytes": 1914540,
+    "sha256": "25cc03f5e915e1a383ee67d47c36fa0f7176d2887e0332931d0b14a20563ef27"
+  },
+  {
+    "path": "assets/videos/sudama/sudama-clip-23.mp4",
+    "bytes": 1901256,
+    "sha256": "4f652592aad6ab65899afb9d11c6ad917ada22047a7faa0610e0d2c5a8ab25e8"
+  },
+  {
+    "path": "assets/videos/sudama/sudama-clip-30.mp4",
+    "bytes": 647933,
+    "sha256": "725c2253a12e60f9ebc05af717c02a157d1506caeafbbe9b6e0341a5132b74c2"
+  },
+  {
+    "path": "assets/videos/sudama/sudama-clip-34.mp4",
+    "bytes": 799794,
+    "sha256": "8af7845dea83152dceae4d9f7e7bad1508f14d678c78c312af67e75c767de2ec"
+  },
+  {
+    "path": "assets/videos/sudama/sudama-clip-38.mp4",
+    "bytes": 1123914,
+    "sha256": "5405ee820443f51cc4422474ed27f135de4c6f010dbcb5b63fddf33c993b5837"
+  },
+  {
+    "path": "assets/videos/sudama/sudama-clip-49.mp4",
+    "bytes": 1525998,
+    "sha256": "37bcad68107a29fc05a3363d70c3e176922efd29fe9c7239977222a1024fb728"
+  },
+  {
+    "path": "assets/weapon-skins/divine-shankh.png",
+    "bytes": 2456039,
+    "sha256": "b03b1a6b826bc85b341a0131e94c8e8b95bf0b3bd7b1dbd5fa2b2a60c3df31a6"
+  },
+  {
+    "path": "assets/weapon-skins/gada-legendary-skin.svg",
+    "bytes": 1573,
+    "sha256": "3d64d641509f6e1ddad3789d2bca152be1ce7e5c49eff24081791088230c3bef"
+  },
+  {
+    "path": "assets/weapon-skins/legendary-sword.png",
+    "bytes": 998915,
+    "sha256": "19e84f64b78085663974f038430fdb71fd4bd85189a1b3af7fbadbc4298f96d0"
+  },
+  {
+    "path": "assets/weapon-skins/molten-gold-gada.png",
+    "bytes": 1687243,
+    "sha256": "c13e167f516aa4b4f59da1f1d54296fa69d33583767c4731b73a6f043b3602e0"
+  },
+  {
+    "path": "assets/weapon-skins/mystic-trishul.png",
+    "bytes": 1014608,
+    "sha256": "ec8b0b48eada84e0a07f001cea3e6a052eccef9920a23e1e7501dfd78a693396"
+  },
+  {
+    "path": "assets/weapon-skins/shankh-divine-skin.svg",
+    "bytes": 1744,
+    "sha256": "25c5fb321152a92b33c3193e9ee9cfd44d3d94bc935d0d5def8cb500009ea019"
+  },
+  {
+    "path": "assets/weapon-skins/sudarshan-chakra-skin.svg",
+    "bytes": 1817,
+    "sha256": "d200767584ce546ba7e94d8da48fe2cc5cfd21c78e67dfad7c878581e5b4f551"
+  },
+  {
+    "path": "assets/weapon-skins/sudarshan-chakra.png",
+    "bytes": 3285211,
+    "sha256": "0a40f232b7e1b7c7e648831e7a944ae163aa6a9b793414c43e55d9ca85ec67f7"
+  },
+  {
+    "path": "assets/weapon-skins/sword-legendary-skin.svg",
+    "bytes": 1521,
+    "sha256": "417973b331031216b13e9ef6b8ddfacd306bb655bbb0c442dd957e8ba608d576"
+  },
+  {
+    "path": "assets/weapon-skins/trishul-legendary-skin.svg",
+    "bytes": 1956,
+    "sha256": "e32e5126143eacc6a64a8c92009dfd0a6fc9fbfe537faaf8744f98339b0de616"
+  },
+  {
+    "path": "assets/worlds/dwarika-courtyard.webp",
+    "bytes": 69546,
+    "sha256": "01671a1a00836cac95964c59c2079a02aaae7ac1727b9f4d3c86ac3bccae2c51"
+  },
+  {
+    "path": "assets/worlds/forest-dawn.webp",
+    "bytes": 64902,
+    "sha256": "64bb9daea6deb78e9b48245ee8b42dfaf12ef78799912bb97fea0675055081b8"
+  },
+  {
+    "path": "assets/worlds/krishna-balarama-twilight.webp",
+    "bytes": 634398,
+    "sha256": "3d915518223f56282dc0494fc00894e3d1b7a3cac1b361374befbadfbc274c55"
+  },
+  {
+    "path": "assets/worlds/riverbank-memory.webp",
+    "bytes": 97520,
+    "sha256": "c960f14aaf7c27b653842b84679d78bde1f23e24fae40ce5568a73d98698e35d"
+  },
+  {
+    "path": "assets/worlds/riverbank-stillness.webp",
+    "bytes": 119034,
+    "sha256": "db9c52e1f9a17df6180d10f2e8f9f50365b5ecb2c753d4fd0ced6f2b64cb21b4"
+  }
+]
